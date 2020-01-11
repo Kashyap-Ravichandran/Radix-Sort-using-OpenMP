@@ -10,7 +10,7 @@ We go on sorting the array based on every individual digits. This type of sortin
 
 The trace file for this particular program contains information in the following format. 
 
-                                                     ' Source node ' ' Destination node'
+                                        ' Source node ' ' Destination node'
 In this program we try to sort the elements that form the edge of a graph. We are basically sorting the edges of a huge graph to make sure that we end up reducing the time taken for breadth wise search for a node. 
 
 More details about this is provided in the spec document. 
